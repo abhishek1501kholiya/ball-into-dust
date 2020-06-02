@@ -1,1 +1,2 @@
-# ball-into-dust
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
